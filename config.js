@@ -11,13 +11,8 @@ var config = {
         "My dear baby, you are my only one",
         "I will love you forever...",
     ],
-    // The time you both fell in love — the format must not be changed.
-    // The format must exactly match the one below:
-    // Year-Month-DayTHour:Minute:Second
-    // Warm reminders:
-    // 1. Hours, minutes, and seconds must all be two digits (e.g., 00:00:00)
-    // 2. The letter T must not be removed
+  
     date: "2025-08-20T20:17:00",
     // Both of your names
-    names: ["Chetan", "badmass"]
+    names: [ "Vunnu" , "Chetan" ]
 }
