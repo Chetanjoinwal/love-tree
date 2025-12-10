@@ -17,7 +17,7 @@ var config = {
     // Warm reminders:
     // 1. Hours, minutes, and seconds must all be two digits (e.g., 00:00:00)
     // 2. The letter T must not be removed
-    date: "2017-07-20T20:15:00",
+    date: "2025-08-20T20:17:00",
     // Both of your names
-    names: ["Benben Bear", "Black Piggy"]
+    names: ["Chetan", "badmass"]
 }
