@@ -1,18 +1,25 @@
-// 霸都丶傲天 2019/7/9  https://Github.com/AJLoveChina
-var config = {
-    // You don't need exactly 7 lines here.
-    // You can change it to 4 lines, 2 lines, or any number you want.
+var config = { 
     lines: [
-        "My dear Wenwen",
-        "Flowers bloom each season, with falling petals as proof",
-        "How can the passing years fade into mere dust?",
-        "Your gentle smile is my lifetime longing",
-        "I wonder if you can understand my sincere affection",
-        "My dear baby, you are my only one",
-        "I will love you forever...",
-    ],
-  
-    date: "2025-08-20T20:17:00",
-    // Both of your names
+        "My dear Vunnu ",
+       
+" तेरी मौजूदगी ही मेरे लिए एक सुकून है," ,
+" जब तू पास हो, तो हर राह रोशन लगे।" ,
+" तेरे बिना हर दिन अधूरा सा लगता है," ,
+" तेरी एक मुस्कान ही मेरी दुनिया का उजला सवेरा है।" ,
+" तू मेरी धड़कन है, मेरी साँसों का हिस्सा है, तेरे साथ हर पल जैसे एक खूबसूरत तमाशा है। " ,
+" तेरी हँसी से मेरी खामोशियाँ भी मुस्कुराती हैं," ,
+" तेरी बातों में, मेरी हर ग़मगीन याद खो जाती है।" ,
+" तूने मेरे जीवन को रंगों से सजा दिया है," ,
+" मेरी सूनी आँखों में उम्मीद का दिया जला दिया है।" ,
+" ये इश्क़ की आग ऐसी है जो दिल से निकलती नहीं, बस तेरी हर बात ही मेरी रूह में बसती है। " ,
+" तू चाँद है तो मैं तेरा आसमान बन जाऊं," ,
+" तू आसमान है तो मैं तेरा आसमान में उड़ता पंछी बन जाऊं।" ,
+" तू मेरा ख्वाब भी है और हकीकत भी," ,
+" तुझे अपनी आँखों में बसाना ही तो मेरी इबादत है।" ,
+" तेरे बिना ये ज़िंदगी एक खाली पन्ना है," ,
+" तेरे साथ हर पन्ना एक नई कहानी है।" ,
+" हमारा साथ ही तो मेरी मंजिल है, तेरे बिना तो हर रास्ता सूना और बेरंग है। " 
+    ], 
+    date: "2025-08-20T20:17:00", 
     names: [ "Vunnu" , "Chetan" ]
 }
