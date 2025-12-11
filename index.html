@@ -44,6 +44,7 @@
             max-height: 300px;
             overflow-y: scroll;
             scroll-behavior: smooth;
+            position: absolute;;
         }
 
         /* Typing Cursor Glow */
@@ -151,7 +152,7 @@
         setTimeout(() => music.volume = 1, 500);
     }).catch(() => {
         // If autoplay blocks, play after first user interaction
-        window.addEventListener("click", () => { music.play(); music.volume = 1; }, { once: true });
+        window.addEventListener("click", () => { music.play();music.currentTime = 25 ; music.volume = 1; }, { once: true });
     });
 </script>
 
